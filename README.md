@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Arielly
 
-<!--
-**ariellylara/ariellylara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biomedical Scientist transitioning into Data Analytics.
 
-Here are some ideas to get you started:
+## Skills
+- Power BI
+- Excel
+- SQL
+- Python
+- Healthcare Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+- Laboratory SLA Dashboard
+
+## Currently Learning
+- Data Analytics
+- Dashboard Design
+- SQL for Analysis
