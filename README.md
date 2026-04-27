@@ -1,6 +1,6 @@
 # Arielly Lara
 
-Biomedical Scientist transitioning into Data Analytics, focused on healthcare data, operational indicators and business intelligence.
+Biomedical Scientist transitioning into Data Analytics, focused on healthcare analytics, operational indicators and business intelligence.
 
 ## Skills
 - Power BI
