@@ -10,10 +10,9 @@ Biomedical Scientist transitioning into Data Analytics, focused on healthcare da
 - Healthcare Data
 
 ## Featured Project
-- Laboratory SLA Dashboard (Power BI)
-- - [Laboratory SLA Dashboard](https://github.com/ariellylara/laboratory-sla-dashboard)
+- [Laboratory SLA Dashboard](https://github.com/ariellylara/laboratory-sla-dashboard)
 
-## Currently Learning
+## Focus Areas
 - Data Analytics
 - Dashboard Design
 - SQL for Analysis
