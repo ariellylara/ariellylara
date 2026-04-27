@@ -1,6 +1,6 @@
-# Hi, I'm Arielly
+# Arielly Lara
 
-Biomedical Scientist transitioning into Data Analytics.
+Biomedical Scientist transitioning into Data Analytics, focused on healthcare data, operational indicators and business intelligence.
 
 ## Skills
 - Power BI
@@ -10,7 +10,8 @@ Biomedical Scientist transitioning into Data Analytics.
 - Healthcare Data
 
 ## Featured Project
-- Laboratory SLA Dashboard
+- Laboratory SLA Dashboard (Power BI)
+- - [Laboratory SLA Dashboard](https://github.com/ariellylara/laboratory-sla-dashboard)
 
 ## Currently Learning
 - Data Analytics
