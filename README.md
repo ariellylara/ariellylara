@@ -7,6 +7,7 @@ Biomedical Scientist transitioning into Data Analytics with focus on healthcare 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariellylara&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariellylara&layout=compact&theme=tokyonight)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariellylara&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariellylara&layout=compact&theme=tokyonight"/>
