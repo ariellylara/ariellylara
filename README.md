@@ -1,5 +1,6 @@
-<img src="banner3.png" width="85%" />
-
+<p align="center">
+  <img src="banner-github.png" />
+</p>
 
 <h1 align="center">Arielly Lara</h1>
 
