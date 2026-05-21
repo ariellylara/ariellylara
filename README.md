@@ -1,5 +1,4 @@
 <img src="banner-github.png" width="100%" height="300px" />
-
 <h1 align="center">Arielly Lara</h1>
 
 <p align="center">
@@ -7,7 +6,7 @@ Biomedical Scientist transitioning into Data Analytics with focus on healthcare 
 </p>
 
 <p align="center">
-Passionate about transforming data into strategic insights through Power BI, SQL and Python.
+Passionate about transforming data into strategic decisions
 </p>
 
 <p align="center">
