@@ -8,10 +8,13 @@ Biomedical Scientist transitioning into Data Analytics with focus on healthcare 
 Passionate about transforming data into strategic insights through Power BI, SQL and Python.
 </p>
 
-        ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-        ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode" />
+</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariellylara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   
