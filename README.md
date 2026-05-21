@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="banner1.png" />
-</p>
-<img src="banner1.png" width="60%" />
+<img src="banner3.png" width="85%" />
 
 
 <h1 align="center">Arielly Lara</h1>
