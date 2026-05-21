@@ -1,4 +1,4 @@
-<img src="banner-github.png" width="100%" height="250px" />
+<img src="banner-github.png" width="100%" height="300px" />
 
 <h1 align="center">Arielly Lara</h1>
 
