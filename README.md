@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner2.png" />
+</p>
 <h1 align="center">Arielly Lara</h1>
 
 <p align="center">
