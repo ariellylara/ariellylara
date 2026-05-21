@@ -8,8 +8,9 @@ Passionate about transforming data into strategic insights through Power BI, SQL
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariellylara&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariellylara&layout=compact&theme=tokyonight&cache_seconds=1800)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ariellylara&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariellylara&layout=compact&theme=tokyonight" />
 
 ## Tech Stack
 
