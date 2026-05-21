@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner3.png" />
+  <img src="banner1.png" />
 </p>
 <h1 align="center">Arielly Lara</h1>
 
