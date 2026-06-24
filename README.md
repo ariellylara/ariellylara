@@ -9,11 +9,11 @@ Currently, I am transitioning into the technology field, building projects invol
 
 ## About Me
 
-- 🎓 Systems Analysis and Development Student
-- 💻 Learning and building projects with Python, SQL and databases
-- 📊 Experience with Power BI, data analysis and dashboards
-- 🔍 Passionate about solving problems through technology
-- 📚 Constantly learning and improving my technical skills
+- Systems Analysis and Development Student
+- Learning and building projects with Python, SQL and databases
+- Experience with Power BI, data analysis and dashboards
+- Passionate about solving problems through technology
+- Constantly learning and improving my technical skills
 
 ---
 
